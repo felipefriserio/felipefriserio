@@ -37,8 +37,5 @@
   
   ##
   
-  [![Alura Challenge](https://github-readme-stats.vercel.app/api/pin/?username=felipefriserio&repo=AluraChallenge2)](https://github.com/felipefriserio/AluraChallenge2)
-  [![Solid](https://github-readme-stats.vercel.app/api/pin/?username=felipefriserio&repo=solid)](https://github.com/felipefriserio/solid)
-  ##
-  
   ![snake gif](https://github.com/felipefriserio/felipefriserio/blob/output/github-contribution-grid-snake.gif)
+ 
