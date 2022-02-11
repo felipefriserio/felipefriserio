@@ -26,3 +26,4 @@
   
   ##
  
+![snake gif](https://github.com/felipefriserio/felipefriserio/blob/output/github-contribution-grid-snake.gif)
