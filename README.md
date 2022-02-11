@@ -21,7 +21,7 @@
 
   <img align="center" alt="Felipe-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   
-  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg?width=676&height=676">
+  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/felipefriserio/felipefriserio/main/mayTheForceBeWithYou.jpeg?width=676&height=676">
 </div>
   
   ##
